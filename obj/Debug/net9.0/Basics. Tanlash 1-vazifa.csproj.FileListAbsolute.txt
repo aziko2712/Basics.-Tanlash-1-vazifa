@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Mohirdev C\Basics. Tanlash 1-vazifa\obj\Debug\net9.0\Basics. Tanlash 1-vazifa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Mohirdev C\Basics. Tanlash 1-vazifa\obj\Debug\net9.0\Basics. Tanlash 1-vazifa.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Mohirdev C\Basics. Tanlash 1-vazifa\obj\Debug\net9.0\Basics. Tanlash 1-vazifa.AssemblyInfo.cs
+C:\Users\User\Desktop\Mohirdev C\Basics. Tanlash 1-vazifa\obj\Debug\net9.0\Basics. Tanlash 1-vazifa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Mohirdev C\Basics. Tanlash 1-vazifa\obj\Debug\net9.0\Basics. Tanlash 1-vazifa.sourcelink.json
+C:\Users\User\Desktop\Mohirdev C\Basics. Tanlash 1-vazifa\bin\Debug\net9.0\Basics. Tanlash 1-vazifa.exe
+C:\Users\User\Desktop\Mohirdev C\Basics. Tanlash 1-vazifa\bin\Debug\net9.0\Basics. Tanlash 1-vazifa.deps.json
+C:\Users\User\Desktop\Mohirdev C\Basics. Tanlash 1-vazifa\bin\Debug\net9.0\Basics. Tanlash 1-vazifa.runtimeconfig.json
+C:\Users\User\Desktop\Mohirdev C\Basics. Tanlash 1-vazifa\bin\Debug\net9.0\Basics. Tanlash 1-vazifa.dll
+C:\Users\User\Desktop\Mohirdev C\Basics. Tanlash 1-vazifa\bin\Debug\net9.0\Basics. Tanlash 1-vazifa.pdb
+C:\Users\User\Desktop\Mohirdev C\Basics. Tanlash 1-vazifa\obj\Debug\net9.0\Basics. Tanlash 1-vazifa.dll
+C:\Users\User\Desktop\Mohirdev C\Basics. Tanlash 1-vazifa\obj\Debug\net9.0\refint\Basics. Tanlash 1-vazifa.dll
+C:\Users\User\Desktop\Mohirdev C\Basics. Tanlash 1-vazifa\obj\Debug\net9.0\Basics. Tanlash 1-vazifa.pdb
+C:\Users\User\Desktop\Mohirdev C\Basics. Tanlash 1-vazifa\obj\Debug\net9.0\Basics. Tanlash 1-vazifa.genruntimeconfig.cache
+C:\Users\User\Desktop\Mohirdev C\Basics. Tanlash 1-vazifa\obj\Debug\net9.0\ref\Basics. Tanlash 1-vazifa.dll
