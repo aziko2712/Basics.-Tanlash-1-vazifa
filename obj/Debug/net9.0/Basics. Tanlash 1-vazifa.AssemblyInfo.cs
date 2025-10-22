@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Basics. Tanlash 1-vazifa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8cf52e3e15a9ef1cfd9516963e4f0356670785e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04f590d9045b775cadb0420e407923813a17ea37")]
 [assembly: System.Reflection.AssemblyProductAttribute("Basics. Tanlash 1-vazifa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Basics. Tanlash 1-vazifa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
